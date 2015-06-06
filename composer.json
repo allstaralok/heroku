@@ -1,0 +1,12 @@
+{
+    "name": "allstaralok/heroku",
+    "authors": [
+        {
+            "name": "Alok",
+            "email": "allstaralok@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.13"
+    }
+}
